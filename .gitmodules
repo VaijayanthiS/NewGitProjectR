@@ -1,0 +1,4 @@
+[submodule "ThisisSubmodulename"]
+	path = ThisisSubmodulename
+	url = https://github.com/VaijayanthiS/NewGitProjectR.git
+	branch = master
